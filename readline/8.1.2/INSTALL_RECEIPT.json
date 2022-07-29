@@ -1,0 +1,47 @@
+{
+  "homebrew_version": "3.3.11-103-g768b172",
+  "used_options": [
+
+  ],
+  "unused_options": [
+
+  ],
+  "built_as_bottle": true,
+  "poured_from_bottle": true,
+  "installed_as_dependency": false,
+  "installed_on_request": true,
+  "changed_files": [
+    "lib/pkgconfig/readline.pc",
+    "share/doc/readline/INSTALL",
+    "share/readline/rl-fgets.c"
+  ],
+  "time": 1647273341,
+  "source_modified_time": 1605728412,
+  "compiler": "clang",
+  "aliases": [
+
+  ],
+  "runtime_dependencies": [
+
+  ],
+  "source": {
+    "spec": "stable",
+    "versions": {
+      "stable": "8.1.2",
+      "head": null,
+      "version_scheme": 0
+    },
+    "path": "/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/readline.rb",
+    "tap_git_head": "caac3fb48ac39f0b2341027f26966364a563b8f2",
+    "tap": "homebrew/core"
+  },
+  "arch": "x86_64",
+  "built_on": {
+    "os": "Macintosh",
+    "os_version": "macOS 11.6",
+    "cpu_family": "penryn",
+    "xcode": "13.1",
+    "clt": "13.1.0.0.1.1633545042",
+    "preferred_perl": "5.30"
+  }
+}
